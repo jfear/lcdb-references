@@ -1,0 +1,3 @@
+[submodule "lcdb-wf"]
+	path = lcdb-wf
+	url = https://github.com/LCDB/lcdb-wf
