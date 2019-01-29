@@ -4,7 +4,7 @@ references_dir: 'references_dir'
 # include/reference_configs, for inspiration for more species.
 include_references:
   - 'reference_configs/Drosophila_melanogaster.yaml'
-#  - 'reference_configs/ERCC.yaml'
+  - 'reference_configs/ERCC.yaml'
   - 'reference_configs/PhiX.yaml'
   - 'reference_configs/Wolbachia_endosymbiont_of_Drosophila_melanogaster.yaml'
   - 'reference_configs/Homo_sapiens.yaml'
