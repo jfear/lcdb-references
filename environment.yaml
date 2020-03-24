@@ -142,6 +142,7 @@ dependencies:
   - pcre=8.41
   - perl=5.26.2
   - pexpect=4.7.0
+  - picard=2.22.1
   - pickleshare=0.7.5
   - pip=19.2.1
   - pixman=0.38.0
